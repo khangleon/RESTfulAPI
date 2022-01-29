@@ -1,0 +1,14 @@
+D:\projects\VS\CSharp\RestAPI\obj\Debug\RestAPI.csproj.AssemblyReference.cache
+D:\projects\VS\CSharp\RestAPI\obj\Debug\RestAPI.csproj.SuggestedBindingRedirects.cache
+D:\projects\VS\CSharp\RestAPI\obj\Debug\RestAPI.Properties.Resources.resources
+D:\projects\VS\CSharp\RestAPI\obj\Debug\RestAPI.csproj.GenerateResource.cache
+D:\projects\VS\CSharp\RestAPI\obj\Debug\RestAPI.csproj.CoreCompileInputs.cache
+D:\projects\VS\CSharp\RestAPI\bin\Debug\RestAPI.exe.config
+D:\projects\VS\CSharp\RestAPI\bin\Debug\RestAPI.exe
+D:\projects\VS\CSharp\RestAPI\bin\Debug\RestAPI.pdb
+D:\projects\VS\CSharp\RestAPI\obj\Debug\RestAPI.exe
+D:\projects\VS\CSharp\RestAPI\obj\Debug\RestAPI.pdb
+D:\projects\VS\CSharp\RestAPI\obj\Debug\RestAPI.Forms.CallAPI.resources
+D:\projects\VS\CSharp\RestAPI\bin\Debug\Newtonsoft.Json.dll
+D:\projects\VS\CSharp\RestAPI\bin\Debug\Newtonsoft.Json.xml
+D:\projects\VS\CSharp\RestAPI\obj\Debug\RestAPI.csproj.CopyComplete

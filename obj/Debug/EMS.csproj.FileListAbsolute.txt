@@ -1,0 +1,10 @@
+D:\projects\VS\CSharp\RestAPI\bin\Debug\RestAPI.exe.config
+D:\projects\VS\CSharp\RestAPI\bin\Debug\RestAPI.exe
+D:\projects\VS\CSharp\RestAPI\bin\Debug\RestAPI.pdb
+D:\projects\VS\CSharp\RestAPI\obj\Debug\EMS.csproj.SuggestedBindingRedirects.cache
+D:\projects\VS\CSharp\RestAPI\obj\Debug\RestAPI.Forms.CallAPI.resources
+D:\projects\VS\CSharp\RestAPI\obj\Debug\RestAPI.Properties.Resources.resources
+D:\projects\VS\CSharp\RestAPI\obj\Debug\EMS.csproj.GenerateResource.cache
+D:\projects\VS\CSharp\RestAPI\obj\Debug\EMS.csproj.CoreCompileInputs.cache
+D:\projects\VS\CSharp\RestAPI\obj\Debug\RestAPI.exe
+D:\projects\VS\CSharp\RestAPI\obj\Debug\RestAPI.pdb
